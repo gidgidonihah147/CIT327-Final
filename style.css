@@ -1,0 +1,12 @@
+body {
+    max-width: 80%;
+    margin: auto;
+    background-color: Black;
+    color: white;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    padding: 2em;
+}
+html{
+    background-color: orange;
+}
